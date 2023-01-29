@@ -1,3 +1,3 @@
 Amazon Web Services (AWS) Certificates
 ======
-Cloud Certified Practioner (CCP)
+Cloud Certified Practitioner (CCP)
